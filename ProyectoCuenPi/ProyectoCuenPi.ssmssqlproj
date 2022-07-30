@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ProyectoCuenPi">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-2PFS1IO:sa">
+          <Created>2022-01-21T14:36:51.3426293-06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2PFS1IO</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>CuenpiV1Movil</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Alters.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Alters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreacionDB-V1-DESK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CreacionDB-V1-DESK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreacionDB-V1-MOVIL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CreacionDB-V1-MOVIL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_CargarMarcas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_CargarMarcas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ConsultarAbonos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarAbonos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ConsultarClientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarClientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ConsultarCompras.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarCompras.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ConsultarProductos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarProductos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ConsultarUnProducto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarUnProducto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_InsertarAbonos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_InsertarAbonos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_InsertarClientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_InsertarClientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_InsertarCompra.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_InsertarCompra.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_InsertarMarca.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_InsertarMarca.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_InsertarMarcas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_InsertarMarcas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_InsertarProductos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_InsertarProductos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ModificarAbono.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ModificarAbono.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ModificarClientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ModificarClientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ModificarCompra.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ModificarCompra.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_SeleccionarModeloCompra.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_SeleccionarModeloCompra.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_TotalAbonos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_TotalAbonos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_TotalCompras.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_TotalCompras.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EliminarYReiniciarTablas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>EliminarYReiniciarTablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PracticarConsultas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>PracticarConsultas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RecursoLinksAyuda.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>RecursoLinksAyuda.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
