@@ -157,6 +157,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>PracticarConsultas.sql</FullPath>
         </FileNode>
+        <FileNode Name="PruebaFiltrosFechas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>PruebaFiltrosFechas.sql</FullPath>
+        </FileNode>
         <FileNode Name="RecursoLinksAyuda.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
