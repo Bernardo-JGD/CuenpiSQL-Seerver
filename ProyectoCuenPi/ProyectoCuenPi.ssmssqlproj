@@ -49,6 +49,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Desk_SP_ConsultarAbonos.sql</FullPath>
         </FileNode>
+        <FileNode Name="Desk_SP_ConsultarAbonosRangoFecha.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarAbonosRangoFecha.sql</FullPath>
+        </FileNode>
         <FileNode Name="Desk_SP_ConsultarClientes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
@@ -60,6 +66,12 @@
           <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Desk_SP_ConsultarCompras.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Desk_SP_ConsultarComprasRangoFecha.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Desk_SP_ConsultarComprasRangoFecha.sql</FullPath>
         </FileNode>
         <FileNode Name="Desk_SP_ConsultarProductos.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
