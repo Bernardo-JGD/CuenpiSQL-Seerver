@@ -70,7 +70,7 @@ SELECT Compra.idCompra AS id, Compra.fechaCompra AS Fecha, Compra.totalCompra AS
 FROM Compra 
 INNER JOIN Deudor
 ON Deudor.idDeudor = Compra.idDeudor
-WHERE (Deudor.idDeudor = 2023) AND (Compra.fechaCompra BETWEEN '2022/01/05' AND '2022/01/09') ;
+WHERE (Deudor.idDeudor = 2023) AND (Compra.fechaCompra BETWEEN '2022/01/01' AND '2022/01/28') ;
 
 EXEC SP_InsertarCompra  'pp9', 2024, 1, 910, 'sd', '2022/04/03';
 EXEC SP_InsertarCompra  'pp10', 2024, 1, 780, 'sd', '2022/04/09';
@@ -107,4 +107,6 @@ SELECT Abono.idAbono AS id, Abono.fecha AS Fecha, Abono.cantidad AS Monto
 FROM Abono 
 INNER JOIN Deudor
 ON Deudor.idDeudor = Abono.idDeudor
-WHERE (Deudor.idDeudor = 2023) AND (Abono.fecha BETWEEN '2022/01/01' AND '2022/01/30');
+WHERE (Deudor.idDeudor = 2023) AND (Abono.fecha BETWEEN '2022/01/01' AND '2022/12/31');
+
+SELECT * FROM Abono;
